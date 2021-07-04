@@ -1,0 +1,3 @@
+		
+	* `prototype` - setting a method that every object of a class can access
+	* Constructors - represents the set of properties or methods that are common to all objects of one type / also called class
